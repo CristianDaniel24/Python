@@ -1,3 +1,4 @@
+"""
 import tkinter as tk
 from tkinter import messagebox
 
@@ -113,3 +114,4 @@ text_biblioteca = tk.Text(ventana, height=10, width=60, state=tk.DISABLED)
 text_biblioteca.pack(pady=10)
 
 ventana.mainloop()
+"""
